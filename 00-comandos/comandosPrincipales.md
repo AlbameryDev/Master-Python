@@ -2,10 +2,17 @@
 ```
 cd nombredecarpeta
 ```
+
+# Ir a directorio anterior
+```
+cd ..
+```
+
 # Ejecutar archivo Python
 ```
 py nombredearchivo.py
 ```
+
 
 
 
