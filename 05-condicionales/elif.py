@@ -20,5 +20,5 @@ elif dia == 6:
     print("Es sabado y es fin de semana")
 elif dia == 7:
     print("Es domingo y es fin de semana")
-elif dia >= 8:
+else:
     print("Día no válido")
