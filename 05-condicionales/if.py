@@ -71,6 +71,7 @@ if edad >= mayoria_edad:
         print("Enhorabuena, estás preparado.")
     else:
         print ("No tienes estudios suficientes")
+    
 
 else:
     print(f"{nombre} No es mayor de edad")
