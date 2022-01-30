@@ -27,7 +27,7 @@ Else:
 
 
 # EJEMPLO 1
-print("******************** EJEMPLO 1 *******************")
+print("\n******************** EJEMPLO 1 *******************")
 
 #color = "Rosa"
 color = input ("¿Cual es mi color favorito?:")
@@ -52,4 +52,26 @@ else:
     print("No estamos en ese año")
 
 
+#EJEMPLO 3
+
+print("\n**********************EJEMPLO 3************************")
+
+
+nombre = "Alba María"
+ciudad = "Málaga"
+pais = "España"
+profesion = "Auxiliar de odontología e Higienista Dental"
+edad = 25
+mayoria_edad = 18
+
+if edad >= mayoria_edad:
+    print(f"{nombre} es mayor de edad")
+    estudios = input("¿Has estudiado una carrera?")
+    if estudios == "si":
+        print("Enhorabuena, estás preparado.")
+    else:
+        print ("No tienes estudios suficientes")
+
+else:
+    print(f"{nombre} No es mayor de edad")
 
