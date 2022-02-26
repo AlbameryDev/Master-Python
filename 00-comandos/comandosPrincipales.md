@@ -14,8 +14,6 @@ py nombredearchivo.py
 ```
 
 
-
-
 ### Errores
 
 - Debo estar en la carpeta correspondiente al archivo que desee ejecutar.
